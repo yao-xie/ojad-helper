@@ -20,7 +20,7 @@
     {
       "js": ["content.js"],
       "matches": [
-        "https://www.gavo.t.u-tokyo.ac.jp/ojad/search/*"
+        "https://www.gavo.t.u-tokyo.ac.jp/ojad/*"
       ]
     }
   ]
